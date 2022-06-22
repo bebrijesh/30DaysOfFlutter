@@ -50,7 +50,7 @@ class LoginScreen extends StatelessWidget {
                 ),
                 ElevatedButton(
                   onPressed: () {
-                    debugPrint("Button Pressed");
+                    debugPrint("ButtonPressed");
                   },
                   style: ElevatedButton.styleFrom(),
                   child: const Text("Button"),
