@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_codepur/widgets/drawer.dart';
 
-
-
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
   final int days = 30;
